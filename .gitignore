@@ -1,0 +1,5 @@
+# intellij project directory
+.idea
+
+# python bytecode cache directories
+*__pycache__*
